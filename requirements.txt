@@ -1,0 +1,8 @@
+torch
+opencv-python
+numpy
+face-alignment
+json_tricks
+cv2
+scikit-image
+matplotlib

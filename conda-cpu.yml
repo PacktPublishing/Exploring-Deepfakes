@@ -1,0 +1,19 @@
+name: packt-deepfakes-cpu
+channels:
+  - pytorch
+  - 1adrianb
+  - conda-forge
+  - defaults
+dependencies:
+  - cpuonly
+  - face_alignment
+  - json_tricks
+  - numpy>=1.21,<1.22
+  - opencv>=3.4
+  - python=3.9
+  - pytorch>
+  - scikit-image>=0.19
+  - torchaudio
+  - torchvision
+  - tqdm>=4.6,<5.0
+  - matplotlib

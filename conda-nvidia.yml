@@ -1,0 +1,19 @@
+name: packt-deepfakes-nvidia
+channels:
+  - pytorch
+  - 1adrianb
+  - conda-forge
+  - nvidia
+  - defaults
+dependencies:
+  - pytorch-cuda
+  - face_alignment
+  - json_tricks
+  - numpy>=1.21
+  - opencv>=3.4
+  - python=3.9
+  - pytorch
+  - scikit-image>=0.19
+  - torchvision
+  - tqdm>=4.6
+  - matplotlib
