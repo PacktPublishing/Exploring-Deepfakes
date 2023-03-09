@@ -57,7 +57,7 @@ With the following software and hardware list you can run all code files present
 
 *  [[Packt]](https://www.packtpub.com/product/graph-data-science-with-neo4j/9781804612743?_ga=2.6892278.578661766.1678253512-2016044401.1678253512&utm_source=github&utm_medium=repository&utm_campaign=9781804612743) [[Amazon]](https://www.amazon.com/dp/180461274X)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Bryan Lyon**
 is a seasoned AI expert with over a decade of experience in and around the field. His background is in computational linguistics and he has worked with the cutting-edge open source deepfake software Faceswap since 2018. Currently, Bryan serves as the chief technology officer for an AI company based in California
 
