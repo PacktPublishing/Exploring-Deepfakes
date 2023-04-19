@@ -17,3 +17,4 @@ dependencies:
   - torchvision
   - tqdm>=4.6
   - matplotlib
+  - numba>=0.56
