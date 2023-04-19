@@ -82,9 +82,9 @@ def main(opt):
                 continue
 
             detected_face = image_bgr[left:right, top:bottom]
-            # cv2.imwrite(os.path.join(opt.export_path,
-            #             f"face_bbox_{filename}_{idx}.png"),
-            #             detected_face)
+            cv2.imwrite(os.path.join(opt.export_path,
+                        f"face_bbox_{filename}_{idx}.png"),
+                        detected_face)
 
             landmarks = face_aligner.get_landmarks_from_image(
                 image_rgb,
@@ -119,9 +119,9 @@ def main(opt):
                                             thickness=-1,
                                             color=colors[count])
 
-            # cv2.imwrite(os.path.join(opt.export_path,
-            #             f"face_landmarks_{filename}_{idx}.png"),
-            #             landmark_image)
+            cv2.imwrite(os.path.join(opt.export_path,
+                        f"face_landmarks_{filename}_{idx}.png"),
+                        landmark_image)
 
             mean_face = np.array([[0.25, 0.22],
                                   [0.75, 0.22],
