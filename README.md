@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Exploring Deepfakes
 
 <a href="https://www.amazon.com/Exploring-Deepfakes-hands-generative-replacement/dp/1801810699?utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="https://m.media-amazon.com/images/I/71EyX0Tal9L.jpg" alt="" height="256px" align="right"></a>
