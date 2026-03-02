@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
 # Exploring Deepfakes
 
 <a href="https://www.amazon.com/Exploring-Deepfakes-hands-generative-replacement/dp/1801810699?utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="https://m.media-amazon.com/images/I/71EyX0Tal9L.jpg" alt="" height="256px" align="right"></a>
